@@ -1,6 +1,12 @@
+## Disclaimer
+**I am not responsible for any damage to your device, loss of data, or bans that may occur from using this software.** This project is for educational and hardware diagnostic purposes only. I do not encourage, endorse, or support software piracy or illegal hacking. 
+This project is **NOT** affiliated with, endorsed by, or in any way associated with Nintendo. "Nintendo Switch" is a trademark of Nintendo Co., Ltd. Use this tool entirely at your own risk.
+
+You don't have to use this, this is purely for my convenience
+
 # RCM Loader
 
-This is a fast, lightweight RCM loader for the Switch.
+With that said This is a fast, lightweight RCM loader for the Switch.
 
 There are 2 versions available (Linux and Android).
 
